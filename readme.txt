@@ -1,1 +1,0 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rossifed/cat_identifier_app.git/HEAD?urlpath=%2Fvoila%2Frender%2Fcat_identifier_app.ipynb)
